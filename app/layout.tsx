@@ -17,9 +17,9 @@ export const metadata: Metadata = {
   description: 'Welcome to the Bluevale Robotics Official Website',
   openGraph: {
     title: 'What is Bluevale Robotics?',
-    description: 'Club',
+    description: 'Bluevale Robotics Website',
     url: baseUrl,
-    siteName: 'My Portfolio',
+    siteName: 'Bluevale Robotics',
     locale: 'en_US',
     type: 'website',
   },
