@@ -27,7 +27,7 @@ export default function Footer() {
             href="/rss"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">rss</p>
+            <p className="ml-2 h-7">Follow our Instagram!</p>
           </a>
         </li>
         <li>
@@ -35,10 +35,10 @@ export default function Footer() {
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://github.com/vercel/next.js"
+            href="https://www.instagram.com/bci.robotics/"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">github</p>
+            <p className="ml-2 h-7">Join our Google Classroom!</p>
           </a>
         </li>
         <li>
@@ -46,10 +46,10 @@ export default function Footer() {
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://vercel.com/templates/next.js/portfolio-starter-kit"
+            href="https://classroom.google.com/c/NjU5Nzg5NDI1MTM4?cjc=zayzipy"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">view source</p>
+            
           </a>
         </li>
       </ul>

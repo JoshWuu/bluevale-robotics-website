@@ -12,12 +12,12 @@ export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
     default: 'Bluevale Robotics Website',
-    template: 'Bluevlae Robotics Website',
+    template: 'Bluevale Robotics Website',
   },
   description: 'Welcome to the Bluevale Robotics Official Website',
   openGraph: {
     title: 'What is Bluevale Robotics?',
-    description: 'This is my portfolio.',
+    description: 'Club',
     url: baseUrl,
     siteName: 'My Portfolio',
     locale: 'en_US',
