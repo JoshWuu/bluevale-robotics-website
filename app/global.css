@@ -26,13 +26,11 @@
   }
   html {
     color-scheme: dark;
-    background-color: #0000FF; /* Set the background color to blue in dark mode */
   }
 }
 
 html {
   min-width: 360px;
-  background-color: #0000FF; /* Set the background color to blue */
 }
 
 .prose .anchor {
