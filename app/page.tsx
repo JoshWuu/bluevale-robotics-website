@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        Welcome to Bluevale Robotics Robotics
+        Welcome to Bluevale Robotics 
       </h1>
       <p className="mb-4">
         {`At our robotics club, you’ll have the opportunity to create your own engineering projects from the ground up. 
