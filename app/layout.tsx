@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
     default: 'Bluevale Robotics Website',
-    template: '%s | Next.js Portfolio Starter',
+    template: 'Bluevlae Robotics Website',
   },
   description: 'Welcome to the Bluevale Robotics Official Website',
   openGraph: {
