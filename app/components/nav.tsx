@@ -5,10 +5,10 @@ const navItems = {
     name: 'home',
   },
   '/blog': {
-    name: 'blog',
+    name: 'projects',
   },
-  'https://vercel.com/templates/next.js/portfolio-starter-kit': {
-    name: 'deploy',
+  'mailto:wuj8756@wrdsb.ca': {
+    name: 'contact us',
   },
 }
 
