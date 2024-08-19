@@ -24,7 +24,7 @@ export default function Footer() {
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
             target="_blank"
-            href="/rss"
+            href="https://www.instagram.com/bci.robotics/"
           >
             <ArrowIcon />
             <p className="ml-2 h-7">Follow our Instagram!</p>
@@ -35,23 +35,13 @@ export default function Footer() {
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://www.instagram.com/bci.robotics/"
+            href="https://classroom.google.com/c/NjU5Nzg5NDI1MTM4?cjc=zayzipy"
           >
             <ArrowIcon />
             <p className="ml-2 h-7">Join our Google Classroom!</p>
           </a>
         </li>
-        <li>
-          <a
-            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
-            rel="noopener noreferrer"
-            target="_blank"
-            href="https://classroom.google.com/c/NjU5Nzg5NDI1MTM4?cjc=zayzipy"
-          >
-            <ArrowIcon />
-            
-          </a>
-        </li>
+        
       </ul>
       <p className="mt-8 text-neutral-600 dark:text-neutral-300">
         © {new Date().getFullYear()} Bluevale Robotics
