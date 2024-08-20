@@ -13,11 +13,6 @@ export default function Page() {
         Whether you're a beginner or have some experience, this is your chance to explore the exciting world of robotics, develop new skills, 
         and see your creations in action!`}
       </p>
-      <div id="particles-js"></div>
-
-      <div class="count-particles">
-        <span class="js-count-particles">--</span> particles
-      </div>
       <div className="my-8">
         <BlogPosts />
       </div>
